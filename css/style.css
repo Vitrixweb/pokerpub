@@ -339,6 +339,7 @@ label {
 
 p {
 	margin: 0;
+	color:#fff;
 }
 
 ul,
@@ -406,8 +407,8 @@ body {
 	line-height: 1.71429;
 	font-weight: 400;
 	letter-spacing: .05em;
-	color: #fff;
-	background: #292929
+	color: #292929;
+	background: #292929;
 	-webkit-text-size-adjust: none;
 	-webkit-font-smoothing: subpixel-antialiased;
 }
