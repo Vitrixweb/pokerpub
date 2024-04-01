@@ -273,8 +273,8 @@ i {
 }
 
 .container-card .card .face.face2 .content img {
-	/* Ajusta a largura da imagem para preencher o contêiner */
-	/* Ajusta a altura da imagem para preencher o contêiner */
+	width: 89%;
+        height: 100%;
 	object-fit: cover;
 	/* Mantém a proporção da imagem e corta o excesso */
 	border-radius: 10px;
