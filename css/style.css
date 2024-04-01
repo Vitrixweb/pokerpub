@@ -407,7 +407,7 @@ body {
 	font-weight: 400;
 	letter-spacing: .05em;
 	color: #fff;
-	background: radial-gradient(50% 50% at 50% 50%, #6B6B6B 0%, #292929 100%);
+	background: #292929
 	-webkit-text-size-adjust: none;
 	-webkit-font-smoothing: subpixel-antialiased;
 }
