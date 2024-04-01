@@ -261,9 +261,9 @@ i {
 
 .container-card .card .face.face2 {
 	position: relative;
-	padding: 45px;
+	padding: 0px;
 	box-sizing: border-box;
-	transform: translateY(-100px);
+	transform: translateY(-90px);
 	text-align: center;
 	/* Alinha o conteúdo ao centro */
 }
@@ -408,7 +408,7 @@ body {
 	line-height: 1.71429;
 	font-weight: 400;
 	letter-spacing: .05em;
-	color: #fff;
+	color: #292929;
 	background: radial-gradient(50% 50% at 50% 50%, #6B6B6B 0%, #292929 100%);
 	-webkit-text-size-adjust: none;
 	-webkit-font-smoothing: subpixel-antialiased;
